@@ -12,6 +12,7 @@ python get-pip.py   (for python2)
 python3 get-pip.py   (for python3)
 
 installing dependencies:
+-------------------------
 
 --> python -mpip install matplotlib (or) try with "sudo pip install matplotlib"  (for python2)
 
